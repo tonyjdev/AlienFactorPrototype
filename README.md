@@ -1,6 +1,6 @@
 # Alien Factor Prototype
 
-A game inspired by [The Key Factor](https://tonyjdev.itch.io/the-alien-factor){:target="_blank" rel="noopener"} (1985).
+A game inspired by [The Key Factor](https://archive.org/details/Key_Factor_The_1985_Amsoft?target=_blank) (1985).
 
 Made in Unreal Engine with Blueprints.
 
